@@ -30,7 +30,7 @@ The placeholder `<![CDATA[scripts]]>` will be replaced with all bundled scripts/
         <link rel="stylesheet" href="/css/style.css">
         <![CDATA[styles]]> <!-- NOTE: This placeholder will be replaced with bundled CSS files -->
         <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-		<![CDATA[scripts]]> <!-- NOTE: This placeholder will be replaced with bundled JS/MJS files -->
+        <![CDATA[scripts]]> <!-- NOTE: This placeholder will be replaced with bundled JS/MJS files -->
     </head>
     <body></body>
 </html>
