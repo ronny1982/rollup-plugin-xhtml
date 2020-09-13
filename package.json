@@ -1,0 +1,15 @@
+{
+  "name": "rollup-plugin-xhtml",
+  "version": "1.0.0",
+  "description": "No bells and whistles rollup plugin to inject bundled files into HTML templates",
+  "main": "index.js",
+  "files": [
+    "README",
+    "LICENSE",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronny1982/rollup-plugin-xhtml.git"
+  }
+}
