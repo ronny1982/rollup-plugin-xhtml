@@ -1,9 +1,10 @@
 # rollup-plugin-xhtml
 
 No bells and whistles rollup plugin to inject bundled files into HTML templates.
+
 Why yet another HTML template plugin?
 Because i just want to copy an HTML template file and inject bundled styles/scripts with easy to understand options.
-I don't want to spend hours to figure out all the complex options of the existing HTML plugins and even with all these options in the end still being unable to exactly achive my simple goal.
+I don't want to spend hours to figure out all the complex options of the existing HTML plugins and even with all these options in the end still being unable to exactly achieve my simple goal.
 
 ## Installation
 
