@@ -29,7 +29,7 @@ function extractFiles(artifacts, pattern) {
 }
 
 function xhtml(options = { targets: [] }) {
-	return {
+    return {
         writeBundle(configuration, artifacts) {
             for(let target of options.targets) {
                 let content = fs.readFileSync(target.src).toString('utf8');
@@ -41,7 +41,7 @@ function xhtml(options = { targets: [] }) {
                 console.log('\x1b[36;1m' + target.src, '→', target.dest, '\x1b[0m');
             }
         }
-	};
+    };
 }
 
 //export default xhtml;
