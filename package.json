@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-xhtml",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "No bells and whistles rollup plugin to inject bundled files into HTML templates",
   "main": "index.js",
   "files": [
